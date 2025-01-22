@@ -1,2 +1,2 @@
 # one
-learning Github
+learning Github and processing
